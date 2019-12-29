@@ -10,6 +10,7 @@ identity_hate.
 
 You must create a model which predicts a probability of each type of toxicity for each comment.
 
-File descriptions
+File descriptions:
+
 train.csv - the training set, contains comments with their binary labels
 test.csv - the test set, you must predict the toxicity probabilities for these comments. To deter hand labeling, the test set contains some comments which are not included in scoring.
